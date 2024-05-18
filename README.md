@@ -4,7 +4,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/workshop-pysal-geopython24/main?urlpath=lab)
 
-Spatial Analysis and Econometrics with PySAL
+Spatial Data Science with Python
 
 <p align="center">
 <img height=260 src='docs/figs/pysal_logo.png' >
