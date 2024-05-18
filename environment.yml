@@ -29,3 +29,7 @@ dependencies:
   - geosnap
   - scipy <= 1.11
   - rioxarray
+  - myst-nb
+  - cenpy
+  - osmnx
+  - hdbscan
